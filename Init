@@ -1,0 +1,6 @@
+git init
+node_modules/
+.env
+posts.json
+git add .
+git commit -m "Initial commit - Blog CLI App"
